@@ -1,0 +1,18 @@
+{
+  "name": "lolaclitics",
+  "version": "1.0.0",
+  "description": "A CLI to know the best setup for your lol champion.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "lola": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
